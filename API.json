@@ -1,0 +1,23 @@
+{
+    "ucus1":{
+        "flightID": 1,
+        "from": "IST",
+        "to": "BJK",
+        "departure": "10:00",
+        "arival": "12:00"
+    },
+    "ucus2":{
+        "flightID": 2,
+        "from": "DLM",
+        "to": "IST",
+        "departure": "8:00",
+        "arival": "10:00"
+    },
+    "ucus3":{
+        "flightID": 3,
+        "from": "IST",
+        "to": "ESB",
+        "departure": "9:00",
+        "arival": "11:00"
+    }
+}
