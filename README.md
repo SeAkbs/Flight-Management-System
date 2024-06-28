@@ -9,7 +9,7 @@ Bu proje, JavaScript, HTML ve Bootstrap kullanılarak geliştirilmiş basit bir 
 ## Nasıl Çalıştırılır
 ```bash
 1. Depoyu klonlayın:
-git clone https://github.com/kullaniciadi/ucus-yonetim-sistemi.git
+git clone https://github.com/seher-akbas/Ucus-Yonetim-Sistemi.git
 
 2. Klasöre gidin:
 cd Flight-Management-System
